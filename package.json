@@ -1,0 +1,24 @@
+{
+  "name": "patrick-CP02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-j-sulley/patrick-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-j-sulley/patrick-CP02/issues"
+  },
+  "homepage": "https://github.com/patrick-j-sulley/patrick-CP02#readme"
+}
